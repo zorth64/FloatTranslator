@@ -1,0 +1,33 @@
+{
+  "originHash" : "d613ac3d283b0e13aff7742aba3e80bd5ab90789f7e9f6b7ab1262e34a01e499",
+  "pins" : [
+    {
+      "identity" : "keyboardshortcuts",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sindresorhus/KeyboardShortcuts",
+      "state" : {
+        "revision" : "1aef85578fdd4f9eaeeb8d53b7b4fc31bf08fe27",
+        "version" : "2.4.0"
+      }
+    },
+    {
+      "identity" : "schwifty",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/curzel-it/Schwifty.git",
+      "state" : {
+        "revision" : "9620d6a851f4c81c458cfa37fe50d0906f872a9c",
+        "version" : "1.2.9"
+      }
+    },
+    {
+      "identity" : "swinject",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Swinject/Swinject.git",
+      "state" : {
+        "revision" : "b685b549fe4d8ae265fc7a2f27d0789720425d69",
+        "version" : "2.10.0"
+      }
+    }
+  ],
+  "version" : 3
+}
